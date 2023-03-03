@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thandazani
-- 👀 I’m interested in ...Data Science
+- 👀 I’m interested in ...Data Science | Data Analytics
 - 🌱 I’m currently learning ...deep learning in data science
 - 💞️ I’m looking to collaborate on ... data science and data analytics projects
 - 📫 How to reach me ...phone: 0723510089, email: thandazanigazu1@gmail.com
